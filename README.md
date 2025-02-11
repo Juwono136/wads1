@@ -22,3 +22,7 @@ The git pull command is used to fetch and download content from a remote reposit
 ```bash
 git pull
 ```
+
+## Git revert
+
+The git revert command can be considered an 'undo' type command, however, it is not a traditional undo operation. Instead of removing the commit from the project history, it figures out how to invert the changes introduced by the commit and appends a new commit with the resulting inverse content. This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
