@@ -10,3 +10,5 @@ Here we'll examine the git clone command in depth. git clone is a Git command li
 ## Git fork
 
 A Git fork is a copy of an existing Git repository. It's a personal copy that you can use to make changes without affecting the original repository.
+
+Thank you for learning the github and git
